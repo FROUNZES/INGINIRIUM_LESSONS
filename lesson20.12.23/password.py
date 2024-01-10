@@ -5,5 +5,5 @@ def ask_password():
     else:
         print('пароли не совпадают')
 
-        
+
 ask_password()
